@@ -43,6 +43,9 @@ This folder contains Python scripts for managing and visualizing simulation resu
 - **`Plot.ipynb`**  
   A Jupyter notebook that reproduces figures presented in the manuscript, enabling a direct comparison with published results.
 
+- **`Hybrid_speciation.ipynb`**  
+  A Jupyter notebook that explores hybrid speciation and calculates relative establishment probabilities.
+
 ---
 
 ### Notes
